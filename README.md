@@ -1,2 +1,2 @@
 # ioplutonotebooks
-Pluto.jl notebooks about empirical industrial organization
+Pluto.jl notebooks about electrical machines
